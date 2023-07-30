@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashdeep.userlist.github.io/static/css/main.b61d0e52.css",
+    "main.js": "/ashdeep.userlist.github.io/static/js/main.0f2b1299.js",
+    "static/js/787.56652661.chunk.js": "/ashdeep.userlist.github.io/static/js/787.56652661.chunk.js",
+    "index.html": "/ashdeep.userlist.github.io/index.html",
+    "main.b61d0e52.css.map": "/ashdeep.userlist.github.io/static/css/main.b61d0e52.css.map",
+    "main.0f2b1299.js.map": "/ashdeep.userlist.github.io/static/js/main.0f2b1299.js.map",
+    "787.56652661.chunk.js.map": "/ashdeep.userlist.github.io/static/js/787.56652661.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61d0e52.css",
+    "static/js/main.0f2b1299.js"
+  ]
+}
